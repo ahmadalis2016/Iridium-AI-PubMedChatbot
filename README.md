@@ -8,7 +8,7 @@ This project implements a Question-Answering (Q&A) chatbot powered by PubMed and
 
 ### Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama2.streamlitapp.com/)
+[(https://pubmedaihub-app.onrender.com)]
 
 ### Dependencies
 # gradio: 
